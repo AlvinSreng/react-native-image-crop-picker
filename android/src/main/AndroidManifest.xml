@@ -22,6 +22,7 @@
         </provider>
 
         <activity
+            android:hardwareAccelerated="false"
             android:name="com.yalantis.ucrop.UCropActivity"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
     </application>
